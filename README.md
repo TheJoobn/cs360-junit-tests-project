@@ -2,6 +2,7 @@
 
 Portfolio Submission
 For this course, I have submitted the following:
+
 •	Contact Service Files:
     o	Contact.java
     o	ContactService.java
